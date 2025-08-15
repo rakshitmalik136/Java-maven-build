@@ -1,4 +1,4 @@
-# DevOps Internship Task 8: Java Maven Build with Jenkins
+# Task 8: Java Maven Build with Jenkins
 
 ## Task Overview
 
